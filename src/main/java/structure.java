@@ -7,4 +7,8 @@ public class structure {
     //        명령문(statement);
     //        ...
     //    }
+
+    public static void main(){
+
+    }
 }

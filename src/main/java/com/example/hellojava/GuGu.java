@@ -19,4 +19,5 @@ public class GuGu {
         GuGu gugu = new GuGu();  // 객체를 만들기 위해서는 new 키워드를 사용해야함
         gugu.dan(n);
     }
+
 }
